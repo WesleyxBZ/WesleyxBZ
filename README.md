@@ -12,7 +12,7 @@ I love 👨‍💻 Front-end and 🎨 UX/UI Designer
 
 [<img alt="Website" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](http://wesleyxbz.com/)&nbsp;&nbsp;
 [<img alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wesley-belizario-824127162/)&nbsp;&nbsp;
-[<img alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/weleyxbz/)
+[<img alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wesleyxbz/)
 
 </br>
 
