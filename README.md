@@ -10,9 +10,9 @@ I love 👨‍💻 Front-end and 🎨 UX/UI Designer
 
 ## Connect with me:
 
-[<img align="left" alt="wesleyxbz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Wesley Belizario | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="wesleyxbz| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="Website" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](http://wesleyxbz.com/)&nbsp;&nbsp;
+[<img alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wesley-belizario-824127162/)&nbsp;&nbsp;
+[<img alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/weleyxbz/)
 
 </br>
 
@@ -37,4 +37,4 @@ Some technologies and tools I've worked with:
 ![Vue](https://img.shields.io/badge/-41b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-<img align="left" alt="Github Stats For MecBonjourno" src="https://github-readme-stats.vercel.app/api?username=WesleyxBZ&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats For WesleyxBZ" src="https://github-readme-stats.vercel.app/api?username=WesleyxBZ&show_icons=true&hide_border=true" />
