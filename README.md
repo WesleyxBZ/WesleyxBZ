@@ -1,8 +1,6 @@
 ### Hi! Welcome 👋
 
-I'm web developer and student of Systems of Internet in UFSM
-</br>
-I love 👨‍💻 Front-end and 🎨 UX/UI Designer
+I'm 👨‍💻 Front-end developer and 🎨 UX/UI Designer.
 
 
 </br>
