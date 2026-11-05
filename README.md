@@ -10,7 +10,6 @@ I'm 👨‍💻 Front-end developer and 🎨 UX/UI Designer.
 
 [<img alt="Website" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](http://wesleyxbz.com/)&nbsp;&nbsp;
 [<img alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wesley-belizario-824127162/)&nbsp;&nbsp;
-[<img alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wesleyxbz/)
 
 </br>
 
@@ -34,5 +33,3 @@ Some technologies and tools I've worked with:
 ![React](https://img.shields.io/badge/-3e4551?style=flat-square&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-41b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-<img align="left" alt="Github Stats For WesleyxBZ" src="https://github-readme-stats.vercel.app/api?username=WesleyxBZ&show_icons=true&hide_border=true" />
